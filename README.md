@@ -39,7 +39,7 @@ There are **two versions** of Arc AutoBuy available in the **Releases** section.
 
 ## 🛠️ Building from Source
 
-The project was developed and compiled using **Python 3.9**.
+The project was developed and compiled using **Python 3.9** and **PyInstaller**.
 
 ```bash
 git clone https://github.com/yourusername/ArcAutoBuy.git
