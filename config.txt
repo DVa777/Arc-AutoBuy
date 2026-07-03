@@ -1,0 +1,13 @@
+Main gun: None
+Second gun: None
+Augument: None
+Shield: None
+Light Ammo: False | 25
+Medium Ammo: False | 20
+Heavy Ammo: False | 10
+Shotgun Ammo: False | 5
+Bandage: False | 1
+Shiel Recharger: False | 1
+Smoke: False | 1
+Defibrillator: False | 1
+Time: 5
